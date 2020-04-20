@@ -4,7 +4,7 @@ LINK TO THE DATA USED IN THIS PROJECT:
 https://github.com/datasets/covid-19
 
 INSTRUCTIONS TO RUN THIS PROJECT ON A LOCAL MACHINE
-Pre-requisite- You must have Python 3.x installed on your machine before running the actual code.
+Pre-requisite- You must have Python 3.x installed and added to the path on your machine before running the actual code.
 There are two ways in which this project can be run once you have installed Python on your machine. 
 
 1. If you have an IDE like PyCharm on your machine:
