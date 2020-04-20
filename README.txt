@@ -20,7 +20,7 @@ There are two ways in which this project can be run once you have installed Pyth
 2. If you do not have any IDE then use the default OS terminal (cmd/ unix)
   -Download and extract the repository.
   -open the terminal and navigate to the extracted folder by usind the "cd" command.
-  -After opening the root folder in the terminal, type "venv\Scripts\activate.bat" to activate the virtual environment with installed dependencied.
+  -After opening the root folder in the terminal, type "venv\Scripts\activate.bat" to activate the virtual environment with installed dependencies.
   -(venv) should now be visible at the start of each line.
   -run "python app.py" to execute the code.
   -A localhost link is displayed on the screen. Copy and paste this address in a browser to view the visualization.
